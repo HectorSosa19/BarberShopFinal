@@ -1,0 +1,46 @@
+{
+  "name": "barbershop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-geocoder": "^5.0.1",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "buefy": "^0.9.21",
+    "bulma": "^0.9.4",
+    "core-js": "^3.8.3",
+    "mapbox-gl": "^2.9.1",
+    "mapbox-gl-vue": "^2.0.4",
+    "popper.js": "^1.16.1",
+    "portal-vue": "^2.1.7",
+    "sweetalert2": "^11.4.18",
+    "vue": "^2.6.14",
+    "vue-cookie": "^1.1.4",
+    "vue-router": "^3.5.1",
+    "vue-sweetalert-icons": "^4.3.1",
+    "vue2mapbox-gl": "^0.13.1",
+    "vuetify": "^2.6.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-loader": "^8.2.5",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.2",
+    "vue-cli-plugin-bootstrap-vue": "~0.8.2",
+    "vue-cli-plugin-vuetify": "~2.5.1",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0"
+  }
+}
